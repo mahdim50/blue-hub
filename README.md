@@ -104,4 +104,4 @@ local humanoid = character:WaitForChild("Humanoid")
 humanoid.WalkSpeed = (Value)
 
     end,
-})# blue-hub
+})
